@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:ns1="/"
+   xmlns:ns2="http://kg.bnu.edu.cn/coursestandard/property/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/三元一次方程组">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content9"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content7"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content8"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content10"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/函数概念">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/三角恒等变换">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/圆锥曲线与方程">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/人文类课程">
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/逻辑推理初步&#10;"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/社会调查与数据分析&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/数学模型&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/拓展、生活、地方、大学先修类课程">
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/大学数学的先修课程&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/日常生活&#10;"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/拓展视野&#10;"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/地方特色的数学课程&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/必要条件、充分条件、充要条件">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/美术家的数学思想">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/假设检验">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/函数性质">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/空间向量代数">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content7"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content8"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content9"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content11"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content10"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/连续函数">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/二项式定理">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/选择性必修课程">
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/函数&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/概率与统计&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/几何与代数&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/数学建模活动与数学探究活动&#10;"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">课程</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Course</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/向量运算">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/等距变换">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/正交设计">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/运动成绩的数据分析">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/绘画与数学">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/社会调查方案设计">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/艺术体育类课程">
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/美术中的数学&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/美与数学&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/体育运动中的数学&#10;"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/音乐中的数学&#10;"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/指数函数">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/微积分的创立与发展">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/函数">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/三角函数&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/幂函数、指数函数、对数函数&#10;"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/函数概念与性质&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/一元函数导数及其应用&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/数列&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/函数应用&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/离散型随机变量及其分布列">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/向量基本定理及坐标表示">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content7"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content8"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content9"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/指数函数模型">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/直线与方程">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/随机事件的条件概率">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content7"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content8"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/经济、社会、部分理工类课程">
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/模型&#10;"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/微积分&#10;"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/空间向量与代数&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/应用统计&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/极限">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/三阶矩阵与行列式">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/连续型随机变量及其分布">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/导数与微分">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content9"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content7"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content8"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content12"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content13"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content10"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/线性模型">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/用样本估计总体">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/体育用具及设施中的数学知识">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/导数运算">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/二元函数">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/幂函数">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/经济数学模型">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/几何与代数">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/平面向量及其应用&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/平面解析几何&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/空间向量与立体几何&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/立体几何初步&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/复数&#10;"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/二维随机变量及其联合分布">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/抽样">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/基本图形位置关系">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/社会调查案例选讲">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/定积分">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content7"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content8"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/复数的三角表示">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/集合的基本运算">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/数学定义、命题和推理">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/数理类课程">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/空间向量与代数&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/概率与统计&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/微积分&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/空间中的平面与直线">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/函数的形成与发展">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/数学推理的类型">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/二次曲线模型">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/社会调查数据分析">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/预备知识">
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/相等关系与不等关系&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/集合&#10;"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/常用逻辑用语&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/从函数观点看一元二次方程和一元二次不等式&#10;"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/美与数学的对称">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/向量应用与解三角形">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/两个基本计数原理">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/几何学的发展">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/平面解析几何的形成与发展">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/等差数列">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/选修课程">
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/艺术体育类课程&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/拓展、生活、地方、大学先修类课程&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/数理类课程&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/人文类课程&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/经济、社会、部分理工类课程&#10;"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">课程</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Course</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/数学推理的前提">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/美与数学的周期">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/获取数据的基本途径及相关概念">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/圆与方程">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/数列概念">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/统计图表">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/声波与正弦函数">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/概率与统计">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">主题</ns1:Label>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/统计&#10;"/>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/概率&#10;"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Topic</ns1:Type>
+    <ns2:包括知识单元 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/计数原理&#10;"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/公理化思想">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/参数估计">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/日常生活">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/同角三角函数的基本关系式">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/向量概念">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/数学证明的主要方法">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/三角函数模型">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/排列与组合">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/其他美术作品中的数学">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/社会数学模型">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/乐曲中的数学">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/基本立体图形">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/从函数观点看一元二次不等式">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/二元线性回归模型">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content6"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/数列极限">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content5"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/必修课程">
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/预备知识&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/函数&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/概率与统计&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/数学建模活动与数学探究活动&#10;"/>
+    <ns2:包括主题 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/几何与代数&#10;"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">课程</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Course</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/一元线性回归模型">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/美术与计算机">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/三角函数概念和性质">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/正态分布">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/拓展视野">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/乐曲的节拍与分数">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/集合的概念与表示">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/社会调查概论">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/律制音阶与数列">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/等式与不等式的性质">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/导数概念及其意义">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/全称量词命题与存在量词命题的否定">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/对数函数">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/地方特色的数学课程">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/聚类分析">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/抽样设计">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/集合的基本关系">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/数学归纳法">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/参变数模型">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/空间向量及其运算">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/运动场上的数学原理">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/２×２列联表">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/等比数列">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/全称量词与存在量词">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/空间向量的应用">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content4"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/三角函数应用">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/复数的概念">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/导数在研究函数中的应用">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/美与数学的和谐">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/复数的运算">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/基本不等式">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/函数与数学模型">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/大学数学的先修课程">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/空间直角坐标系">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/角与弧度">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/函数极限">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content3"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/美与数学的简洁">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/从函数观点看一元二次方程">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/成对数据的统计相关性">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/社会调查数据报告">
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/运动赛事中的运筹帷幄">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/二分法与求方程近似解">
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content2"/>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://kg.bnu.edu.cn/coursestandard/resource/乐器中的数学">
+    <ns1:Label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">知识单元</ns1:Label>
+    <ns1:Type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KnowledgeUnit</ns1:Type>
+    <ns2:包括要求 rdf:resource="http://kg.bnu.edu.cn/coursestandard/resource/Content1"/>
+  </rdf:Description>
+</rdf:RDF>
